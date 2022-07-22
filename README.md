@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LimaSuyanne
 - 👀 I’m interested in learning about programtion and I'm loving it.
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me suyannelimaj@gmail.com
+- 💞️ I’m looking to collaborate on my first job
+- 📫 How to reach me suyannelimacsjl@hotmail.com
